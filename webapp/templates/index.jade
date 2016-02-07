@@ -1,9 +1,5 @@
-- load staticfiles
-doctype html
-head
-  link(rel='stylesheet', type='text/css', href='{% static "css/styles.css" %}')
-  title A Python Web App
-body
+extends './template.jade'
+block content
   h1 Jade is pretty awesome
   p.
     I've been turned on to Jade, and now it's taken over.  Shame it's getting its name
