@@ -1,0 +1,19 @@
+{
+  "name": "python-webapp",
+  "version": "1.0.0",
+  "description": "Web app written in Python following along with HelloWebApp.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewEvolution/python-webapp.git"
+  },
+  "author": "Ryan Tanay <rtanay@gmail.com> (http://portfolio.ryantanay.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NewEvolution/python-webapp/issues"
+  },
+  "homepage": "https://github.com/NewEvolution/python-webapp#readme"
+}
