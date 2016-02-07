@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/NewEvolution/python-webapp/issues"
   },
-  "homepage": "https://github.com/NewEvolution/python-webapp#readme"
+  "homepage": "https://github.com/NewEvolution/python-webapp#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.3.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-postcss": "^6.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.2.0"
+  }
 }
